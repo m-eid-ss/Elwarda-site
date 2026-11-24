@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://m-eid-ss.github.io/Elwarda/sitemap.xml
